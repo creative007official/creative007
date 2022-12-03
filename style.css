@@ -67,13 +67,3 @@ nav li a{
     background-color: aqua;
     text-align: center;
 }
-
-@media screen and (max-width: 600px;){
-    welcome{
-        font-size: 36px;
-        line-height: 56px;
-      
-    }
-    
-    
-}
